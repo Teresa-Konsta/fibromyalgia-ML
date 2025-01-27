@@ -1,9 +1,0 @@
-9 - maximum severe pain
-8 - very severe pain
-7 - severe pain
-6 - medium to severe pain
-5 - medium pain
-4 - light to medium pain
-3 - light pain
-2 - very light pain
-1 - no pain
