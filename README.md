@@ -1,7 +1,7 @@
 ## ML for Fibromyalgia diagnostics
 I have been living with this hard syndrome my entire life.
 First, I had to diagnose myself by myself, then I had to figure out the treatment.
-I share my experience here https://muscle-spasms.vercel.app
+I share my experience, treatment and hyposesis here https://muscle-spasms.vercel.app
 
 My idea lies in creating a device with electrodes to check the patient's muscles in fibromyalgia spots for the next parameters: temperature in tissues, tension, sensitivity and pain level based on neuro impulses. For this project I have created a dataset based on my experience, that would serve for an ML model to estimate the fibromyalgia probability based on the pain level in certain body areas. Numbers in the dataset correspond to:
 
